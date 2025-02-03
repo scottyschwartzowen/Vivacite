@@ -65,6 +65,7 @@
 		2D613ADA2BDFFFD300301D30 = {
 			isa = PBXGroup;
 			children = (
+				2DE9F7A12D518348005A1D31 /* README.md */,
 				2D613AE52BDFFFD300301D30 /* TodoList */,
 				2D613AE42BDFFFD300301D30 /* Products */,
 			);
@@ -105,7 +106,6 @@
 			children = (
 				2D613AF92BE019F500301D30 /* AddView.swift */,
 				2D613AF72BE0101A00301D30 /* ListRowView.swift */,
-				2DE9F7A12D518348005A1D31 /* README.md */,
 				2D613AF52BE000FE00301D30 /* ListView.swift */,
 				2DB50B2E2C2F109000FC03A8 /* NoItemsView.swift */,
 			);
