@@ -12,20 +12,10 @@
 
 ## App Features
 
-- Swift concurrency and multi-threading to manage state with MainActors
+- MVVM architecture with with Identifiable and Codable conformance
 
-- Codable & Coding Key structure for robust end-to-end JSON data conformance
+- ViewModel with UserDefaults data persistence and JSONEncoder
 
-- Error handling with escaping closures and Swift Tasks
+- Animated Add Item Button for enhanced user experience
 
-- Loading and displaying Images with AsyncImage
-
-- Firebase BAAS with Firestore SDK database using Swift Package Manager
-
-- Firebase integrated authentication and authorization
-
-- Robust identifiable data model with MVVM architecture
-
-- Incorporated Swift's Type Aliases for Completion Handlers
-
-- Firebase Storage SDK to store images in the cloud
+- Adapted for iPad, Landscape, and Dark Mode compliant
