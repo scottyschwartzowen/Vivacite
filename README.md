@@ -1,14 +1,14 @@
 # Vivacité TodoList App
 
 <p align="left">
-    <img src="https://github.com/scottyschwartzowen/Preface/blob/main/Preface/Resources/Assets.xcassets/Images/Preface.imageset/preface.png" alt="Preface App Image" width="75%" />
+    <img src="https://github.com/scottyschwartzowen/Vivacite/blob/main/TodoList/Assets.xcassets/Images/vivacite.imageset/vivacité.png" alt="Preface App Image" width="75%" />
 </p>
 
 - Created 100% in Swift / SwiftUI
 
-- Social media app where users are recommended to others by mutual friends
+- TodoList app for quickly making check lists of things to do
 
-- Launch screen, sign-in authentication, posts feed, profile page, comments
+- Launch screen, scrollable todo list, add, edit, and delete items on list
 
 ## App Features
 
